@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-11T19:16:12.823Z",
+  "generatedAt": "2026-04-11T19:59:10.418Z",
   "buildMode": "release",
   "sourceBranch": "main",
   "cycles": {
@@ -2415,7 +2415,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 15,
+          "progress": 0,
           "maxProgress": 7
         },
         {
@@ -2426,7 +2426,7 @@
           "tone": "good",
           "earned": false,
           "points": 160,
-          "progress": 12,
+          "progress": 0,
           "maxProgress": 20
         },
         {
@@ -2435,9 +2435,9 @@
           "description": "Owns cards and follows through.",
           "icon": "award",
           "tone": "good",
-          "earned": true,
+          "earned": false,
           "points": 160,
-          "progress": 2,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -2448,7 +2448,7 @@
           "tone": "good",
           "earned": false,
           "points": 175,
-          "progress": 5,
+          "progress": 0,
           "maxProgress": 6
         },
         {
@@ -2470,7 +2470,7 @@
           "tone": "good",
           "earned": false,
           "points": 195,
-          "progress": 12,
+          "progress": 0,
           "maxProgress": 25
         },
         {
@@ -2481,7 +2481,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 12,
+          "progress": 0,
           "maxProgress": 20
         },
         {
@@ -2492,7 +2492,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 12,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -2501,9 +2501,9 @@
           "description": "A card sat in one lane for way too long.",
           "icon": "calendar",
           "tone": "bad",
-          "earned": true,
+          "earned": false,
           "points": 0,
-          "progress": 6,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -2514,7 +2514,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 2,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -2523,9 +2523,9 @@
           "description": "A card basically moved in and never left.",
           "icon": "calendar",
           "tone": "bad",
-          "earned": true,
+          "earned": false,
           "points": 0,
-          "progress": 6,
+          "progress": 0,
           "maxProgress": 3
         },
         {
@@ -2622,9 +2622,9 @@
           "description": "Still nothing after multiple standup windows.",
           "icon": "users",
           "tone": "bad",
-          "earned": true,
+          "earned": false,
           "points": 0,
-          "progress": 4,
+          "progress": 3,
           "maxProgress": 4
         },
         {
@@ -2642,33 +2642,33 @@
       "metrics": {
         "pnp2": {
           "git": 344,
-          "trello": 284,
+          "trello": 0,
           "standups": 0,
           "pushes": 1,
           "commits": 2,
           "streak": 1,
-          "badges": 8,
-          "overall": 813
+          "badges": 4,
+          "overall": 433
         },
         "pnp3": {
           "git": 344,
-          "trello": 284,
+          "trello": 0,
           "standups": 0,
           "pushes": 1,
           "commits": 2,
           "streak": 1,
-          "badges": 8,
-          "overall": 813
+          "badges": 4,
+          "overall": 433
         },
         "midterm": {
           "git": 344,
-          "trello": 284,
+          "trello": 0,
           "standups": 0,
           "pushes": 1,
           "commits": 2,
           "streak": 1,
-          "badges": 8,
-          "overall": 876
+          "badges": 4,
+          "overall": 467
         }
       },
       "github": {
@@ -2797,7 +2797,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 12,
+          "progress": 0,
           "maxProgress": 7
         },
         {
@@ -2808,7 +2808,7 @@
           "tone": "good",
           "earned": false,
           "points": 160,
-          "progress": 3,
+          "progress": 0,
           "maxProgress": 20
         },
         {
@@ -2819,7 +2819,7 @@
           "tone": "good",
           "earned": false,
           "points": 160,
-          "progress": 1,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -2830,7 +2830,7 @@
           "tone": "good",
           "earned": false,
           "points": 175,
-          "progress": 1,
+          "progress": 0,
           "maxProgress": 6
         },
         {
@@ -2852,7 +2852,7 @@
           "tone": "good",
           "earned": false,
           "points": 195,
-          "progress": 3,
+          "progress": 0,
           "maxProgress": 25
         },
         {
@@ -2863,7 +2863,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 3,
+          "progress": 0,
           "maxProgress": 20
         },
         {
@@ -2874,7 +2874,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 3,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -2883,9 +2883,9 @@
           "description": "A card sat in one lane for way too long.",
           "icon": "calendar",
           "tone": "bad",
-          "earned": true,
+          "earned": false,
           "points": 0,
-          "progress": 7,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -2894,9 +2894,9 @@
           "description": "Board movement slowed to a crawl.",
           "icon": "calendar",
           "tone": "bad",
-          "earned": true,
+          "earned": false,
           "points": 0,
-          "progress": 1,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -2905,9 +2905,9 @@
           "description": "A card basically moved in and never left.",
           "icon": "calendar",
           "tone": "bad",
-          "earned": true,
+          "earned": false,
           "points": 0,
-          "progress": 7,
+          "progress": 0,
           "maxProgress": 3
         },
         {
@@ -3024,33 +3024,33 @@
       "metrics": {
         "pnp2": {
           "git": 7071,
-          "trello": 87,
+          "trello": 0,
           "standups": 490,
           "pushes": 3,
           "commits": 18,
           "streak": 3,
-          "badges": 12,
-          "overall": 8911
+          "badges": 9,
+          "overall": 8824
         },
         "pnp3": {
           "git": 7071,
-          "trello": 87,
+          "trello": 0,
           "standups": 490,
           "pushes": 3,
           "commits": 18,
           "streak": 3,
-          "badges": 12,
-          "overall": 8911
+          "badges": 9,
+          "overall": 8824
         },
         "midterm": {
           "git": 7071,
-          "trello": 87,
+          "trello": 0,
           "standups": 490,
           "pushes": 3,
           "commits": 18,
           "streak": 3,
-          "badges": 12,
-          "overall": 9676
+          "badges": 9,
+          "overall": 9580
         }
       },
       "github": {
@@ -3179,7 +3179,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 12,
+          "progress": 0,
           "maxProgress": 7
         },
         {
@@ -3190,7 +3190,7 @@
           "tone": "good",
           "earned": false,
           "points": 160,
-          "progress": 5,
+          "progress": 0,
           "maxProgress": 20
         },
         {
@@ -3199,9 +3199,9 @@
           "description": "Owns cards and follows through.",
           "icon": "award",
           "tone": "good",
-          "earned": true,
+          "earned": false,
           "points": 160,
-          "progress": 2,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -3234,7 +3234,7 @@
           "tone": "good",
           "earned": false,
           "points": 195,
-          "progress": 5,
+          "progress": 0,
           "maxProgress": 25
         },
         {
@@ -3245,7 +3245,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 5,
+          "progress": 0,
           "maxProgress": 20
         },
         {
@@ -3256,7 +3256,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 5,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -3265,9 +3265,9 @@
           "description": "A card sat in one lane for way too long.",
           "icon": "calendar",
           "tone": "bad",
-          "earned": true,
+          "earned": false,
           "points": 0,
-          "progress": 6,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -3278,7 +3278,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 2,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -3287,9 +3287,9 @@
           "description": "A card basically moved in and never left.",
           "icon": "calendar",
           "tone": "bad",
-          "earned": true,
+          "earned": false,
           "points": 0,
-          "progress": 6,
+          "progress": 0,
           "maxProgress": 3
         },
         {
@@ -3406,33 +3406,33 @@
       "metrics": {
         "pnp2": {
           "git": 1352,
-          "trello": 140,
+          "trello": 0,
           "standups": 0,
           "pushes": 3,
           "commits": 8,
           "streak": 3,
-          "badges": 11,
-          "overall": 2197
+          "badges": 8,
+          "overall": 1961
         },
         "pnp3": {
           "git": 1352,
-          "trello": 140,
+          "trello": 0,
           "standups": 0,
           "pushes": 3,
           "commits": 8,
           "streak": 3,
-          "badges": 11,
-          "overall": 2197
+          "badges": 8,
+          "overall": 1961
         },
         "midterm": {
           "git": 1352,
-          "trello": 140,
+          "trello": 0,
           "standups": 0,
           "pushes": 3,
           "commits": 8,
           "streak": 3,
-          "badges": 11,
-          "overall": 2346
+          "badges": 8,
+          "overall": 2096
         }
       },
       "github": {
@@ -3561,7 +3561,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 12,
+          "progress": 0,
           "maxProgress": 7
         },
         {
@@ -3572,7 +3572,7 @@
           "tone": "good",
           "earned": false,
           "points": 160,
-          "progress": 1,
+          "progress": 0,
           "maxProgress": 20
         },
         {
@@ -3583,7 +3583,7 @@
           "tone": "good",
           "earned": false,
           "points": 160,
-          "progress": 1,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -3616,7 +3616,7 @@
           "tone": "good",
           "earned": false,
           "points": 195,
-          "progress": 1,
+          "progress": 0,
           "maxProgress": 25
         },
         {
@@ -3627,7 +3627,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 1,
+          "progress": 0,
           "maxProgress": 20
         },
         {
@@ -3636,9 +3636,9 @@
           "description": "Cards exist, but barely move.",
           "icon": "target",
           "tone": "bad",
-          "earned": true,
+          "earned": false,
           "points": 0,
-          "progress": 1,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -3647,9 +3647,9 @@
           "description": "A card sat in one lane for way too long.",
           "icon": "calendar",
           "tone": "bad",
-          "earned": true,
+          "earned": false,
           "points": 0,
-          "progress": 7,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -3658,9 +3658,9 @@
           "description": "Board movement slowed to a crawl.",
           "icon": "calendar",
           "tone": "bad",
-          "earned": true,
+          "earned": false,
           "points": 0,
-          "progress": 1,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -3669,9 +3669,9 @@
           "description": "A card basically moved in and never left.",
           "icon": "calendar",
           "tone": "bad",
-          "earned": true,
+          "earned": false,
           "points": 0,
-          "progress": 7,
+          "progress": 0,
           "maxProgress": 3
         },
         {
@@ -3788,33 +3788,33 @@
       "metrics": {
         "pnp2": {
           "git": 982,
-          "trello": 55,
+          "trello": 0,
           "standups": 426,
           "pushes": 2,
           "commits": 2,
           "streak": 2,
-          "badges": 10,
-          "overall": 2127
+          "badges": 6,
+          "overall": 2072
         },
         "pnp3": {
           "git": 982,
-          "trello": 55,
+          "trello": 0,
           "standups": 426,
           "pushes": 2,
           "commits": 2,
           "streak": 2,
-          "badges": 10,
-          "overall": 2127
+          "badges": 6,
+          "overall": 2072
         },
         "midterm": {
           "git": 982,
-          "trello": 55,
+          "trello": 0,
           "standups": 426,
           "pushes": 2,
           "commits": 2,
           "streak": 2,
-          "badges": 10,
-          "overall": 2273
+          "badges": 6,
+          "overall": 2213
         }
       },
       "github": {
@@ -3943,7 +3943,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 15,
+          "progress": 3,
           "maxProgress": 7
         },
         {
@@ -3952,9 +3952,9 @@
           "description": "Consistently active on the board.",
           "icon": "award",
           "tone": "good",
-          "earned": true,
+          "earned": false,
           "points": 160,
-          "progress": 22,
+          "progress": 0,
           "maxProgress": 20
         },
         {
@@ -3965,7 +3965,7 @@
           "tone": "good",
           "earned": false,
           "points": 160,
-          "progress": 2,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -3976,7 +3976,7 @@
           "tone": "good",
           "earned": false,
           "points": 175,
-          "progress": 2,
+          "progress": 0,
           "maxProgress": 6
         },
         {
@@ -3998,7 +3998,7 @@
           "tone": "good",
           "earned": false,
           "points": 195,
-          "progress": 22,
+          "progress": 0,
           "maxProgress": 25
         },
         {
@@ -4007,9 +4007,9 @@
           "description": "Lots of board motion without much closure.",
           "icon": "target",
           "tone": "bad",
-          "earned": true,
+          "earned": false,
           "points": 0,
-          "progress": 22,
+          "progress": 0,
           "maxProgress": 20
         },
         {
@@ -4020,7 +4020,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 22,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -4042,7 +4042,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 2,
+          "progress": 0,
           "maxProgress": 2
         },
         {
@@ -4170,33 +4170,33 @@
       "metrics": {
         "pnp2": {
           "git": 209,
-          "trello": 334,
+          "trello": 0,
           "standups": 300,
           "pushes": 1,
           "commits": 1,
           "streak": 2,
-          "badges": 7,
-          "overall": 1356
+          "badges": 5,
+          "overall": 926
         },
         "pnp3": {
           "git": 209,
-          "trello": 334,
+          "trello": 0,
           "standups": 300,
           "pushes": 1,
           "commits": 1,
           "streak": 2,
-          "badges": 7,
-          "overall": 1356
+          "badges": 5,
+          "overall": 926
         },
         "midterm": {
           "git": 209,
-          "trello": 334,
+          "trello": 0,
           "standups": 300,
           "pushes": 1,
           "commits": 1,
           "streak": 2,
-          "badges": 7,
-          "overall": 1440
+          "badges": 5,
+          "overall": 977
         }
       },
       "github": {
