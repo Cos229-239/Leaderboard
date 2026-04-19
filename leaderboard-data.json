@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-19T06:27:53.237Z",
+  "generatedAt": "2026-04-19T20:55:45.956Z",
   "buildMode": "release",
   "sourceBranch": "main",
   "cycles": {
@@ -1908,8 +1908,8 @@
         }
       },
       "github": {
-        "totalPoints": 40,
-        "repos": 1,
+        "totalPoints": 80,
+        "repos": 2,
         "stars": 0,
         "forks": 0,
         "followers": 0,
@@ -2808,7 +2808,7 @@
           "tone": "good",
           "earned": true,
           "points": 160,
-          "progress": 23,
+          "progress": 32,
           "maxProgress": 20
         },
         {
@@ -2830,7 +2830,7 @@
           "tone": "good",
           "earned": true,
           "points": 175,
-          "progress": 16,
+          "progress": 17,
           "maxProgress": 6
         },
         {
@@ -2850,9 +2850,9 @@
           "description": "Looks completely in control of the board.",
           "icon": "star",
           "tone": "good",
-          "earned": false,
+          "earned": true,
           "points": 195,
-          "progress": 23,
+          "progress": 32,
           "maxProgress": 25
         },
         {
@@ -2863,7 +2863,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 23,
+          "progress": 32,
           "maxProgress": 20
         },
         {
@@ -2874,7 +2874,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 23,
+          "progress": 32,
           "maxProgress": 2
         },
         {
@@ -3024,33 +3024,33 @@
       "metrics": {
         "pnp2": {
           "git": 10720,
-          "trello": 557,
+          "trello": 659,
           "standups": 874,
           "pushes": 5,
           "commits": 39,
           "streak": 6,
-          "badges": 16,
-          "overall": 14232
+          "badges": 17,
+          "overall": 14451
         },
         "pnp3": {
           "git": 10720,
-          "trello": 557,
+          "trello": 659,
           "standups": 874,
           "pushes": 5,
           "commits": 39,
           "streak": 6,
-          "badges": 16,
-          "overall": 14232
+          "badges": 17,
+          "overall": 14451
         },
         "midterm": {
           "git": 10720,
-          "trello": 557,
+          "trello": 659,
           "standups": 874,
           "pushes": 5,
           "commits": 39,
           "streak": 6,
-          "badges": 16,
-          "overall": 15447
+          "badges": 17,
+          "overall": 15676
         }
       },
       "github": {
