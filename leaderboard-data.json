@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-30T00:41:07.069Z",
+  "generatedAt": "2026-04-30T01:09:24.647Z",
   "buildMode": "release",
   "sourceBranch": "main",
   "cycles": {
@@ -2316,7 +2316,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 4,
+          "progress": 5,
           "maxProgress": 3
         },
         {
@@ -2327,7 +2327,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 19,
+          "progress": 26,
           "maxProgress": 6
         },
         {
@@ -2338,7 +2338,7 @@
           "tone": "good",
           "earned": true,
           "points": 210,
-          "progress": 19,
+          "progress": 26,
           "maxProgress": 10
         },
         {
@@ -2349,7 +2349,7 @@
           "tone": "good",
           "earned": true,
           "points": 170,
-          "progress": 67,
+          "progress": 90,
           "maxProgress": 20
         },
         {
@@ -2404,7 +2404,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 19,
+          "progress": 26,
           "maxProgress": 2
         },
         {
@@ -2415,7 +2415,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 6,
+          "progress": 3,
           "maxProgress": 7
         },
         {
@@ -2426,7 +2426,7 @@
           "tone": "good",
           "earned": true,
           "points": 160,
-          "progress": 52,
+          "progress": 70,
           "maxProgress": 20
         },
         {
@@ -2437,7 +2437,7 @@
           "tone": "good",
           "earned": true,
           "points": 160,
-          "progress": 4,
+          "progress": 5,
           "maxProgress": 2
         },
         {
@@ -2448,7 +2448,7 @@
           "tone": "good",
           "earned": true,
           "points": 175,
-          "progress": 23,
+          "progress": 34,
           "maxProgress": 6
         },
         {
@@ -2459,7 +2459,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 9,
+          "progress": 14,
           "maxProgress": 3
         },
         {
@@ -2470,7 +2470,7 @@
           "tone": "good",
           "earned": true,
           "points": 195,
-          "progress": 52,
+          "progress": 70,
           "maxProgress": 25
         },
         {
@@ -2481,7 +2481,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 52,
+          "progress": 70,
           "maxProgress": 20
         },
         {
@@ -2492,7 +2492,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 52,
+          "progress": 70,
           "maxProgress": 2
         },
         {
@@ -2503,7 +2503,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 4,
+          "progress": 3,
           "maxProgress": 2
         },
         {
@@ -2514,7 +2514,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 4,
+          "progress": 5,
           "maxProgress": 2
         },
         {
@@ -2525,7 +2525,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 4,
+          "progress": 3,
           "maxProgress": 3
         },
         {
@@ -2641,34 +2641,34 @@
       ],
       "metrics": {
         "pnp2": {
-          "git": 2082,
-          "trello": 1270,
+          "git": 2736,
+          "trello": 1767,
           "standups": 0,
-          "pushes": 4,
-          "commits": 19,
-          "streak": 4,
+          "pushes": 5,
+          "commits": 26,
+          "streak": 5,
           "badges": 16,
-          "overall": 4806
+          "overall": 6106
         },
         "pnp3": {
-          "git": 2082,
-          "trello": 1270,
+          "git": 2736,
+          "trello": 1767,
           "standups": 0,
-          "pushes": 4,
-          "commits": 19,
-          "streak": 4,
+          "pushes": 5,
+          "commits": 26,
+          "streak": 5,
           "badges": 16,
-          "overall": 4806
+          "overall": 6106
         },
         "midterm": {
-          "git": 2082,
-          "trello": 1270,
+          "git": 2736,
+          "trello": 1767,
           "standups": 0,
-          "pushes": 4,
-          "commits": 19,
-          "streak": 4,
+          "pushes": 5,
+          "commits": 26,
+          "streak": 5,
           "badges": 16,
-          "overall": 5141
+          "overall": 6556
         }
       },
       "github": {
@@ -2698,7 +2698,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 5,
+          "progress": 7,
           "maxProgress": 3
         },
         {
@@ -2709,7 +2709,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 39,
+          "progress": 54,
           "maxProgress": 6
         },
         {
@@ -2720,7 +2720,7 @@
           "tone": "good",
           "earned": true,
           "points": 210,
-          "progress": 39,
+          "progress": 54,
           "maxProgress": 10
         },
         {
@@ -2731,7 +2731,7 @@
           "tone": "good",
           "earned": true,
           "points": 170,
-          "progress": 222,
+          "progress": 322,
           "maxProgress": 20
         },
         {
@@ -2786,7 +2786,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 39,
+          "progress": 54,
           "maxProgress": 2
         },
         {
@@ -2797,7 +2797,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 6,
+          "progress": 3,
           "maxProgress": 7
         },
         {
@@ -2808,7 +2808,7 @@
           "tone": "good",
           "earned": true,
           "points": 160,
-          "progress": 32,
+          "progress": 44,
           "maxProgress": 20
         },
         {
@@ -2819,7 +2819,7 @@
           "tone": "good",
           "earned": true,
           "points": 160,
-          "progress": 3,
+          "progress": 4,
           "maxProgress": 2
         },
         {
@@ -2830,7 +2830,7 @@
           "tone": "good",
           "earned": true,
           "points": 175,
-          "progress": 17,
+          "progress": 20,
           "maxProgress": 6
         },
         {
@@ -2852,7 +2852,7 @@
           "tone": "good",
           "earned": true,
           "points": 195,
-          "progress": 32,
+          "progress": 44,
           "maxProgress": 25
         },
         {
@@ -2863,7 +2863,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 32,
+          "progress": 44,
           "maxProgress": 20
         },
         {
@@ -2874,7 +2874,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 32,
+          "progress": 44,
           "maxProgress": 2
         },
         {
@@ -2885,7 +2885,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 5,
+          "progress": 4,
           "maxProgress": 2
         },
         {
@@ -2896,7 +2896,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 3,
+          "progress": 4,
           "maxProgress": 2
         },
         {
@@ -2907,7 +2907,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 5,
+          "progress": 4,
           "maxProgress": 3
         },
         {
@@ -2918,7 +2918,7 @@
           "tone": "good",
           "earned": true,
           "points": 150,
-          "progress": 17,
+          "progress": 24,
           "maxProgress": 4
         },
         {
@@ -2929,7 +2929,7 @@
           "tone": "good",
           "earned": true,
           "points": 165,
-          "progress": 17,
+          "progress": 24,
           "maxProgress": 2
         },
         {
@@ -2940,7 +2940,7 @@
           "tone": "good",
           "earned": true,
           "points": 165,
-          "progress": 4,
+          "progress": 6,
           "maxProgress": 3
         },
         {
@@ -2951,7 +2951,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 17,
+          "progress": 24,
           "maxProgress": 6
         },
         {
@@ -2962,7 +2962,7 @@
           "tone": "good",
           "earned": true,
           "points": 185,
-          "progress": 17,
+          "progress": 24,
           "maxProgress": 5
         },
         {
@@ -3023,34 +3023,34 @@
       ],
       "metrics": {
         "pnp2": {
-          "git": 10720,
-          "trello": 659,
-          "standups": 874,
-          "pushes": 5,
-          "commits": 39,
-          "streak": 6,
+          "git": 14408,
+          "trello": 860,
+          "standups": 1178,
+          "pushes": 7,
+          "commits": 54,
+          "streak": 8,
           "badges": 17,
-          "overall": 14451
+          "overall": 18954
         },
         "pnp3": {
-          "git": 10720,
-          "trello": 659,
-          "standups": 874,
-          "pushes": 5,
-          "commits": 39,
-          "streak": 6,
+          "git": 14408,
+          "trello": 860,
+          "standups": 1178,
+          "pushes": 7,
+          "commits": 54,
+          "streak": 8,
           "badges": 17,
-          "overall": 14451
+          "overall": 18954
         },
         "midterm": {
-          "git": 10720,
-          "trello": 659,
-          "standups": 874,
-          "pushes": 5,
-          "commits": 39,
-          "streak": 6,
+          "git": 14408,
+          "trello": 860,
+          "standups": 1178,
+          "pushes": 7,
+          "commits": 54,
+          "streak": 8,
           "badges": 17,
-          "overall": 15676
+          "overall": 20599
         }
       },
       "github": {
@@ -3080,7 +3080,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 5,
+          "progress": 7,
           "maxProgress": 3
         },
         {
@@ -3091,7 +3091,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 13,
+          "progress": 15,
           "maxProgress": 6
         },
         {
@@ -3102,7 +3102,7 @@
           "tone": "good",
           "earned": true,
           "points": 210,
-          "progress": 13,
+          "progress": 15,
           "maxProgress": 10
         },
         {
@@ -3113,7 +3113,7 @@
           "tone": "good",
           "earned": true,
           "points": 170,
-          "progress": 121,
+          "progress": 123,
           "maxProgress": 20
         },
         {
@@ -3168,7 +3168,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 13,
+          "progress": 15,
           "maxProgress": 2
         },
         {
@@ -3179,7 +3179,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 6,
+          "progress": 3,
           "maxProgress": 7
         },
         {
@@ -3188,9 +3188,9 @@
           "description": "Consistently active on the board.",
           "icon": "award",
           "tone": "good",
-          "earned": false,
+          "earned": true,
           "points": 160,
-          "progress": 15,
+          "progress": 32,
           "maxProgress": 20
         },
         {
@@ -3201,7 +3201,7 @@
           "tone": "good",
           "earned": true,
           "points": 160,
-          "progress": 3,
+          "progress": 4,
           "maxProgress": 2
         },
         {
@@ -3212,7 +3212,7 @@
           "tone": "good",
           "earned": true,
           "points": 175,
-          "progress": 6,
+          "progress": 17,
           "maxProgress": 6
         },
         {
@@ -3232,9 +3232,9 @@
           "description": "Looks completely in control of the board.",
           "icon": "star",
           "tone": "good",
-          "earned": false,
+          "earned": true,
           "points": 195,
-          "progress": 15,
+          "progress": 32,
           "maxProgress": 25
         },
         {
@@ -3243,9 +3243,9 @@
           "description": "Lots of board motion without much closure.",
           "icon": "target",
           "tone": "bad",
-          "earned": false,
+          "earned": true,
           "points": 0,
-          "progress": 15,
+          "progress": 32,
           "maxProgress": 20
         },
         {
@@ -3256,7 +3256,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 15,
+          "progress": 32,
           "maxProgress": 2
         },
         {
@@ -3267,7 +3267,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 5,
+          "progress": 4,
           "maxProgress": 2
         },
         {
@@ -3278,7 +3278,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 3,
+          "progress": 4,
           "maxProgress": 2
         },
         {
@@ -3289,7 +3289,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 5,
+          "progress": 4,
           "maxProgress": 3
         },
         {
@@ -3300,7 +3300,7 @@
           "tone": "good",
           "earned": true,
           "points": 150,
-          "progress": 7,
+          "progress": 12,
           "maxProgress": 4
         },
         {
@@ -3311,7 +3311,7 @@
           "tone": "good",
           "earned": true,
           "points": 165,
-          "progress": 7,
+          "progress": 12,
           "maxProgress": 2
         },
         {
@@ -3320,9 +3320,9 @@
           "description": "Keeps reporting in and moving forward.",
           "icon": "users",
           "tone": "good",
-          "earned": false,
+          "earned": true,
           "points": 165,
-          "progress": 2,
+          "progress": 4,
           "maxProgress": 3
         },
         {
@@ -3333,7 +3333,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 7,
+          "progress": 12,
           "maxProgress": 6
         },
         {
@@ -3344,7 +3344,7 @@
           "tone": "good",
           "earned": true,
           "points": 185,
-          "progress": 7,
+          "progress": 12,
           "maxProgress": 5
         },
         {
@@ -3405,34 +3405,34 @@
       ],
       "metrics": {
         "pnp2": {
-          "git": 2656,
-          "trello": 357,
-          "standups": 384,
-          "pushes": 5,
-          "commits": 13,
-          "streak": 6,
-          "badges": 13,
-          "overall": 4971
+          "git": 2986,
+          "trello": 704,
+          "standups": 684,
+          "pushes": 7,
+          "commits": 15,
+          "streak": 8,
+          "badges": 17,
+          "overall": 6414
         },
         "pnp3": {
-          "git": 2656,
-          "trello": 357,
-          "standups": 384,
-          "pushes": 5,
-          "commits": 13,
-          "streak": 6,
-          "badges": 13,
-          "overall": 4971
+          "git": 2986,
+          "trello": 704,
+          "standups": 684,
+          "pushes": 7,
+          "commits": 15,
+          "streak": 8,
+          "badges": 17,
+          "overall": 6414
         },
         "midterm": {
-          "git": 2656,
-          "trello": 357,
-          "standups": 384,
-          "pushes": 5,
-          "commits": 13,
-          "streak": 6,
-          "badges": 13,
-          "overall": 5311
+          "git": 2986,
+          "trello": 704,
+          "standups": 684,
+          "pushes": 7,
+          "commits": 15,
+          "streak": 8,
+          "badges": 17,
+          "overall": 6851
         }
       },
       "github": {
@@ -3462,7 +3462,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 4,
+          "progress": 5,
           "maxProgress": 3
         },
         {
@@ -3473,7 +3473,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 10,
+          "progress": 11,
           "maxProgress": 6
         },
         {
@@ -3484,7 +3484,7 @@
           "tone": "good",
           "earned": true,
           "points": 210,
-          "progress": 10,
+          "progress": 11,
           "maxProgress": 10
         },
         {
@@ -3495,7 +3495,7 @@
           "tone": "good",
           "earned": true,
           "points": 170,
-          "progress": 129,
+          "progress": 132,
           "maxProgress": 20
         },
         {
@@ -3550,7 +3550,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 10,
+          "progress": 11,
           "maxProgress": 2
         },
         {
@@ -3561,7 +3561,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 6,
+          "progress": 3,
           "maxProgress": 7
         },
         {
@@ -3572,7 +3572,7 @@
           "tone": "good",
           "earned": false,
           "points": 160,
-          "progress": 3,
+          "progress": 15,
           "maxProgress": 20
         },
         {
@@ -3583,7 +3583,7 @@
           "tone": "good",
           "earned": true,
           "points": 160,
-          "progress": 2,
+          "progress": 4,
           "maxProgress": 2
         },
         {
@@ -3594,7 +3594,7 @@
           "tone": "good",
           "earned": false,
           "points": 175,
-          "progress": 0,
+          "progress": 2,
           "maxProgress": 6
         },
         {
@@ -3603,9 +3603,9 @@
           "description": "Cards make it all the way to done.",
           "icon": "award",
           "tone": "good",
-          "earned": false,
+          "earned": true,
           "points": 180,
-          "progress": 0,
+          "progress": 6,
           "maxProgress": 3
         },
         {
@@ -3616,7 +3616,7 @@
           "tone": "good",
           "earned": false,
           "points": 195,
-          "progress": 3,
+          "progress": 15,
           "maxProgress": 25
         },
         {
@@ -3627,7 +3627,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 3,
+          "progress": 15,
           "maxProgress": 20
         },
         {
@@ -3638,7 +3638,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 3,
+          "progress": 15,
           "maxProgress": 2
         },
         {
@@ -3649,7 +3649,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 6,
+          "progress": 4,
           "maxProgress": 2
         },
         {
@@ -3660,7 +3660,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 2,
+          "progress": 4,
           "maxProgress": 2
         },
         {
@@ -3671,7 +3671,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 6,
+          "progress": 4,
           "maxProgress": 3
         },
         {
@@ -3682,7 +3682,7 @@
           "tone": "good",
           "earned": true,
           "points": 150,
-          "progress": 17,
+          "progress": 22,
           "maxProgress": 4
         },
         {
@@ -3693,7 +3693,7 @@
           "tone": "good",
           "earned": true,
           "points": 165,
-          "progress": 17,
+          "progress": 22,
           "maxProgress": 2
         },
         {
@@ -3704,7 +3704,7 @@
           "tone": "good",
           "earned": true,
           "points": 165,
-          "progress": 4,
+          "progress": 5,
           "maxProgress": 3
         },
         {
@@ -3715,7 +3715,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 17,
+          "progress": 22,
           "maxProgress": 6
         },
         {
@@ -3726,7 +3726,7 @@
           "tone": "good",
           "earned": true,
           "points": 185,
-          "progress": 17,
+          "progress": 22,
           "maxProgress": 5
         },
         {
@@ -3787,34 +3787,34 @@
       ],
       "metrics": {
         "pnp2": {
-          "git": 2962,
-          "trello": 120,
-          "standups": 894,
-          "pushes": 4,
-          "commits": 10,
-          "streak": 5,
-          "badges": 13,
-          "overall": 5443
+          "git": 3152,
+          "trello": 550,
+          "standups": 1149,
+          "pushes": 5,
+          "commits": 11,
+          "streak": 6,
+          "badges": 14,
+          "overall": 6503
         },
         "pnp3": {
-          "git": 2962,
-          "trello": 120,
-          "standups": 894,
-          "pushes": 4,
-          "commits": 10,
-          "streak": 5,
-          "badges": 13,
-          "overall": 5443
+          "git": 3152,
+          "trello": 550,
+          "standups": 1149,
+          "pushes": 5,
+          "commits": 11,
+          "streak": 6,
+          "badges": 14,
+          "overall": 6503
         },
         "midterm": {
-          "git": 2962,
-          "trello": 120,
-          "standups": 894,
-          "pushes": 4,
-          "commits": 10,
-          "streak": 5,
-          "badges": 13,
-          "overall": 5841
+          "git": 3152,
+          "trello": 550,
+          "standups": 1149,
+          "pushes": 5,
+          "commits": 11,
+          "streak": 6,
+          "badges": 14,
+          "overall": 6988
         }
       },
       "github": {
@@ -3844,7 +3844,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 4,
+          "progress": 5,
           "maxProgress": 3
         },
         {
@@ -3855,7 +3855,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 13,
+          "progress": 21,
           "maxProgress": 6
         },
         {
@@ -3866,7 +3866,7 @@
           "tone": "good",
           "earned": true,
           "points": 210,
-          "progress": 13,
+          "progress": 21,
           "maxProgress": 10
         },
         {
@@ -3877,7 +3877,7 @@
           "tone": "good",
           "earned": true,
           "points": 170,
-          "progress": 75,
+          "progress": 119,
           "maxProgress": 20
         },
         {
@@ -3932,7 +3932,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 13,
+          "progress": 21,
           "maxProgress": 2
         },
         {
@@ -3943,7 +3943,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 6,
+          "progress": 3,
           "maxProgress": 7
         },
         {
@@ -3954,7 +3954,7 @@
           "tone": "good",
           "earned": true,
           "points": 160,
-          "progress": 24,
+          "progress": 30,
           "maxProgress": 20
         },
         {
@@ -3965,7 +3965,7 @@
           "tone": "good",
           "earned": false,
           "points": 160,
-          "progress": 3,
+          "progress": 4,
           "maxProgress": 2
         },
         {
@@ -3976,7 +3976,7 @@
           "tone": "good",
           "earned": false,
           "points": 175,
-          "progress": 2,
+          "progress": 4,
           "maxProgress": 6
         },
         {
@@ -3996,9 +3996,9 @@
           "description": "Looks completely in control of the board.",
           "icon": "star",
           "tone": "good",
-          "earned": false,
+          "earned": true,
           "points": 195,
-          "progress": 24,
+          "progress": 30,
           "maxProgress": 25
         },
         {
@@ -4009,7 +4009,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 24,
+          "progress": 30,
           "maxProgress": 20
         },
         {
@@ -4020,7 +4020,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 24,
+          "progress": 30,
           "maxProgress": 2
         },
         {
@@ -4042,7 +4042,7 @@
           "tone": "bad",
           "earned": false,
           "points": 0,
-          "progress": 3,
+          "progress": 4,
           "maxProgress": 2
         },
         {
@@ -4064,7 +4064,7 @@
           "tone": "good",
           "earned": true,
           "points": 150,
-          "progress": 10,
+          "progress": 13,
           "maxProgress": 4
         },
         {
@@ -4075,7 +4075,7 @@
           "tone": "good",
           "earned": true,
           "points": 165,
-          "progress": 10,
+          "progress": 13,
           "maxProgress": 2
         },
         {
@@ -4086,7 +4086,7 @@
           "tone": "good",
           "earned": true,
           "points": 165,
-          "progress": 5,
+          "progress": 6,
           "maxProgress": 3
         },
         {
@@ -4097,7 +4097,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 10,
+          "progress": 13,
           "maxProgress": 6
         },
         {
@@ -4108,7 +4108,7 @@
           "tone": "good",
           "earned": true,
           "points": 185,
-          "progress": 10,
+          "progress": 13,
           "maxProgress": 5
         },
         {
@@ -4169,34 +4169,34 @@
       ],
       "metrics": {
         "pnp2": {
-          "git": 1939,
-          "trello": 399,
-          "standups": 645,
-          "pushes": 4,
-          "commits": 13,
-          "streak": 5,
-          "badges": 12,
-          "overall": 4486
+          "git": 3809,
+          "trello": 528,
+          "standups": 816,
+          "pushes": 5,
+          "commits": 21,
+          "streak": 6,
+          "badges": 13,
+          "overall": 6934
         },
         "pnp3": {
-          "git": 1939,
-          "trello": 399,
-          "standups": 645,
-          "pushes": 4,
-          "commits": 13,
-          "streak": 5,
-          "badges": 12,
-          "overall": 4486
+          "git": 3809,
+          "trello": 528,
+          "standups": 816,
+          "pushes": 5,
+          "commits": 21,
+          "streak": 6,
+          "badges": 13,
+          "overall": 6934
         },
         "midterm": {
-          "git": 1939,
-          "trello": 399,
-          "standups": 645,
-          "pushes": 4,
-          "commits": 13,
-          "streak": 5,
-          "badges": 12,
-          "overall": 4784
+          "git": 3809,
+          "trello": 528,
+          "standups": 816,
+          "pushes": 5,
+          "commits": 21,
+          "streak": 6,
+          "badges": 13,
+          "overall": 7449
         }
       },
       "github": {
