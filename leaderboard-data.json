@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-10T07:22:27.063Z",
+  "generatedAt": "2026-05-11T02:53:35.899Z",
   "buildMode": "release",
   "sourceBranch": "main",
   "cycles": {
@@ -2358,9 +2358,9 @@
           "description": "Week 08 fork check cleared.",
           "icon": "gitfork",
           "tone": "good",
-          "earned": false,
+          "earned": true,
           "points": 150,
-          "progress": 0,
+          "progress": 8,
           "maxProgress": 8
         },
         {
@@ -2391,9 +2391,9 @@
           "description": "Working off a fork instead of keeping it simple.",
           "icon": "gitfork",
           "tone": "bad",
-          "earned": false,
+          "earned": true,
           "points": 0,
-          "progress": 0,
+          "progress": 1,
           "maxProgress": 1
         },
         {
@@ -2641,34 +2641,34 @@
       ],
       "metrics": {
         "pnp2": {
-          "git": 2736,
+          "git": 2856,
           "trello": 2036,
           "standups": 0,
           "pushes": 5,
           "commits": 26,
           "streak": 5,
-          "badges": 15,
-          "overall": 6375
+          "badges": 17,
+          "overall": 6585
         },
         "pnp3": {
-          "git": 2736,
+          "git": 2856,
           "trello": 2036,
           "standups": 0,
           "pushes": 5,
           "commits": 26,
           "streak": 5,
-          "badges": 15,
-          "overall": 6375
+          "badges": 17,
+          "overall": 6585
         },
         "midterm": {
-          "git": 2736,
+          "git": 2856,
           "trello": 2036,
           "standups": 0,
           "pushes": 5,
           "commits": 26,
           "streak": 5,
-          "badges": 15,
-          "overall": 6852
+          "badges": 17,
+          "overall": 7074
         }
       },
       "github": {
@@ -2740,9 +2740,9 @@
           "description": "Week 08 fork check cleared.",
           "icon": "gitfork",
           "tone": "good",
-          "earned": false,
+          "earned": true,
           "points": 150,
-          "progress": 0,
+          "progress": 8,
           "maxProgress": 8
         },
         {
@@ -2773,9 +2773,9 @@
           "description": "Working off a fork instead of keeping it simple.",
           "icon": "gitfork",
           "tone": "bad",
-          "earned": false,
+          "earned": true,
           "points": 0,
-          "progress": 0,
+          "progress": 1,
           "maxProgress": 1
         },
         {
@@ -2918,7 +2918,7 @@
           "tone": "good",
           "earned": true,
           "points": 150,
-          "progress": 24,
+          "progress": 28,
           "maxProgress": 4
         },
         {
@@ -2929,7 +2929,7 @@
           "tone": "good",
           "earned": true,
           "points": 165,
-          "progress": 24,
+          "progress": 28,
           "maxProgress": 2
         },
         {
@@ -2951,7 +2951,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 24,
+          "progress": 28,
           "maxProgress": 6
         },
         {
@@ -2962,7 +2962,7 @@
           "tone": "good",
           "earned": true,
           "points": 185,
-          "progress": 24,
+          "progress": 28,
           "maxProgress": 5
         },
         {
@@ -3023,34 +3023,34 @@
       ],
       "metrics": {
         "pnp2": {
-          "git": 14408,
+          "git": 14528,
           "trello": 1011,
-          "standups": 1178,
+          "standups": 1326,
           "pushes": 7,
           "commits": 54,
           "streak": 8,
-          "badges": 17,
-          "overall": 19105
+          "badges": 19,
+          "overall": 19463
         },
         "pnp3": {
-          "git": 14408,
+          "git": 14528,
           "trello": 1011,
-          "standups": 1178,
+          "standups": 1326,
           "pushes": 7,
           "commits": 54,
           "streak": 8,
-          "badges": 17,
-          "overall": 19105
+          "badges": 19,
+          "overall": 19463
         },
         "midterm": {
-          "git": 14408,
+          "git": 14528,
           "trello": 1011,
-          "standups": 1178,
+          "standups": 1326,
           "pushes": 7,
           "commits": 54,
           "streak": 8,
-          "badges": 17,
-          "overall": 20765
+          "badges": 19,
+          "overall": 21150
         }
       },
       "github": {
@@ -3122,9 +3122,9 @@
           "description": "Week 08 fork check cleared.",
           "icon": "gitfork",
           "tone": "good",
-          "earned": false,
+          "earned": true,
           "points": 150,
-          "progress": 0,
+          "progress": 8,
           "maxProgress": 8
         },
         {
@@ -3155,9 +3155,9 @@
           "description": "Working off a fork instead of keeping it simple.",
           "icon": "gitfork",
           "tone": "bad",
-          "earned": false,
+          "earned": true,
           "points": 0,
-          "progress": 0,
+          "progress": 1,
           "maxProgress": 1
         },
         {
@@ -3300,7 +3300,7 @@
           "tone": "good",
           "earned": true,
           "points": 150,
-          "progress": 12,
+          "progress": 18,
           "maxProgress": 4
         },
         {
@@ -3311,7 +3311,7 @@
           "tone": "good",
           "earned": true,
           "points": 165,
-          "progress": 12,
+          "progress": 18,
           "maxProgress": 2
         },
         {
@@ -3333,7 +3333,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 12,
+          "progress": 18,
           "maxProgress": 6
         },
         {
@@ -3344,7 +3344,7 @@
           "tone": "good",
           "earned": true,
           "points": 185,
-          "progress": 12,
+          "progress": 18,
           "maxProgress": 5
         },
         {
@@ -3405,34 +3405,34 @@
       ],
       "metrics": {
         "pnp2": {
-          "git": 2986,
+          "git": 3106,
           "trello": 3650,
-          "standups": 684,
+          "standups": 916,
           "pushes": 7,
           "commits": 15,
           "streak": 8,
-          "badges": 16,
-          "overall": 9360
+          "badges": 18,
+          "overall": 9802
         },
         "pnp3": {
-          "git": 2986,
+          "git": 3106,
           "trello": 3650,
-          "standups": 684,
+          "standups": 916,
           "pushes": 7,
           "commits": 15,
           "streak": 8,
-          "badges": 16,
-          "overall": 9360
+          "badges": 18,
+          "overall": 9802
         },
         "midterm": {
-          "git": 2986,
+          "git": 3106,
           "trello": 3650,
-          "standups": 684,
+          "standups": 916,
           "pushes": 7,
           "commits": 15,
           "streak": 8,
-          "badges": 16,
-          "overall": 10092
+          "badges": 18,
+          "overall": 10569
         }
       },
       "github": {
@@ -3504,9 +3504,9 @@
           "description": "Week 08 fork check cleared.",
           "icon": "gitfork",
           "tone": "good",
-          "earned": false,
+          "earned": true,
           "points": 150,
-          "progress": 0,
+          "progress": 8,
           "maxProgress": 8
         },
         {
@@ -3537,9 +3537,9 @@
           "description": "Working off a fork instead of keeping it simple.",
           "icon": "gitfork",
           "tone": "bad",
-          "earned": false,
+          "earned": true,
           "points": 0,
-          "progress": 0,
+          "progress": 1,
           "maxProgress": 1
         },
         {
@@ -3561,7 +3561,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 3,
+          "progress": 6,
           "maxProgress": 7
         },
         {
@@ -3682,7 +3682,7 @@
           "tone": "good",
           "earned": true,
           "points": 150,
-          "progress": 22,
+          "progress": 26,
           "maxProgress": 4
         },
         {
@@ -3693,7 +3693,7 @@
           "tone": "good",
           "earned": true,
           "points": 165,
-          "progress": 22,
+          "progress": 26,
           "maxProgress": 2
         },
         {
@@ -3704,7 +3704,7 @@
           "tone": "good",
           "earned": true,
           "points": 165,
-          "progress": 5,
+          "progress": 6,
           "maxProgress": 3
         },
         {
@@ -3715,7 +3715,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 22,
+          "progress": 26,
           "maxProgress": 6
         },
         {
@@ -3726,7 +3726,7 @@
           "tone": "good",
           "earned": true,
           "points": 185,
-          "progress": 22,
+          "progress": 26,
           "maxProgress": 5
         },
         {
@@ -3787,34 +3787,34 @@
       ],
       "metrics": {
         "pnp2": {
-          "git": 3152,
+          "git": 3272,
           "trello": 550,
-          "standups": 1149,
+          "standups": 1362,
           "pushes": 5,
           "commits": 11,
-          "streak": 6,
-          "badges": 14,
-          "overall": 6503
+          "streak": 7,
+          "badges": 16,
+          "overall": 6966
         },
         "pnp3": {
-          "git": 3152,
+          "git": 3272,
           "trello": 550,
-          "standups": 1149,
+          "standups": 1362,
           "pushes": 5,
           "commits": 11,
-          "streak": 6,
-          "badges": 14,
-          "overall": 6503
+          "streak": 7,
+          "badges": 16,
+          "overall": 6966
         },
         "midterm": {
-          "git": 3152,
+          "git": 3272,
           "trello": 550,
-          "standups": 1149,
+          "standups": 1362,
           "pushes": 5,
           "commits": 11,
-          "streak": 6,
-          "badges": 14,
-          "overall": 6988
+          "streak": 7,
+          "badges": 16,
+          "overall": 7484
         }
       },
       "github": {
@@ -3886,9 +3886,9 @@
           "description": "Week 08 fork check cleared.",
           "icon": "gitfork",
           "tone": "good",
-          "earned": false,
+          "earned": true,
           "points": 150,
-          "progress": 0,
+          "progress": 8,
           "maxProgress": 8
         },
         {
@@ -3919,9 +3919,9 @@
           "description": "Working off a fork instead of keeping it simple.",
           "icon": "gitfork",
           "tone": "bad",
-          "earned": false,
+          "earned": true,
           "points": 0,
-          "progress": 0,
+          "progress": 1,
           "maxProgress": 1
         },
         {
@@ -3943,7 +3943,7 @@
           "tone": "bad",
           "earned": true,
           "points": 0,
-          "progress": 3,
+          "progress": 6,
           "maxProgress": 7
         },
         {
@@ -4064,7 +4064,7 @@
           "tone": "good",
           "earned": true,
           "points": 150,
-          "progress": 13,
+          "progress": 14,
           "maxProgress": 4
         },
         {
@@ -4075,7 +4075,7 @@
           "tone": "good",
           "earned": true,
           "points": 165,
-          "progress": 13,
+          "progress": 14,
           "maxProgress": 2
         },
         {
@@ -4086,7 +4086,7 @@
           "tone": "good",
           "earned": true,
           "points": 165,
-          "progress": 6,
+          "progress": 7,
           "maxProgress": 3
         },
         {
@@ -4097,7 +4097,7 @@
           "tone": "good",
           "earned": true,
           "points": 180,
-          "progress": 13,
+          "progress": 14,
           "maxProgress": 6
         },
         {
@@ -4108,7 +4108,7 @@
           "tone": "good",
           "earned": true,
           "points": 185,
-          "progress": 13,
+          "progress": 14,
           "maxProgress": 5
         },
         {
@@ -4169,34 +4169,34 @@
       ],
       "metrics": {
         "pnp2": {
-          "git": 3809,
+          "git": 3929,
           "trello": 573,
-          "standups": 816,
+          "standups": 903,
           "pushes": 5,
           "commits": 21,
-          "streak": 6,
-          "badges": 13,
-          "overall": 6979
+          "streak": 7,
+          "badges": 15,
+          "overall": 7316
         },
         "pnp3": {
-          "git": 3809,
+          "git": 3929,
           "trello": 573,
-          "standups": 816,
+          "standups": 903,
           "pushes": 5,
           "commits": 21,
-          "streak": 6,
-          "badges": 13,
-          "overall": 6979
+          "streak": 7,
+          "badges": 15,
+          "overall": 7316
         },
         "midterm": {
-          "git": 3809,
+          "git": 3929,
           "trello": 573,
-          "standups": 816,
+          "standups": 903,
           "pushes": 5,
           "commits": 21,
-          "streak": 6,
-          "badges": 13,
-          "overall": 7499
+          "streak": 7,
+          "badges": 15,
+          "overall": 7857
         }
       },
       "github": {
