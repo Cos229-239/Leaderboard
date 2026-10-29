@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T10:53:50.205Z",
+  "generatedAt": "2026-10-29T11:11:02.779Z",
   "buildMode": "release",
   "sourceBranch": "main",
   "cycles": {
@@ -3054,8 +3054,8 @@
         }
       },
       "github": {
-        "totalPoints": 70,
-        "repos": 1,
+        "totalPoints": 110,
+        "repos": 2,
         "stars": 0,
         "forks": 0,
         "followers": 0,
@@ -3818,8 +3818,8 @@
         }
       },
       "github": {
-        "totalPoints": 70,
-        "repos": 1,
+        "totalPoints": 110,
+        "repos": 2,
         "stars": 0,
         "forks": 0,
         "followers": 0,
